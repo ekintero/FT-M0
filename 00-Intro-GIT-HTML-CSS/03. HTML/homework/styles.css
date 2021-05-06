@@ -1,0 +1,22 @@
+h1 {
+    color: darkkhaki;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color:rgb(209, 211, 118);
+    padding: 50px;
+    border: 0.5rem outset pink;
+    border-radius: 25px;
+    box-shadow: 0 0 0 2rem skyblue;
+
+}
+#spanId{
+    font-size:18px ;
+    margin: 50px;
+}
