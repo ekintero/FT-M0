@@ -1,0 +1,9 @@
+-Variables: La variable es algo que puede representar cualquier objeto una casa, una cantidad, un peso, un nombre propio, una fecha.
+-Strings: String es una cosa que guarda textos, estos textos pueden ser ya sea de una o mas palabras, se pueden incluir numeros, 
+pero estos los guarda como si fueran ser palabras. No tiene un valor numerico 
+-Funciones (argumentos, return): Las funciones son como parte de una receta o una instruccion de un manual. Contiene una serie de pasos
+que se deben cumplir. Alguno de estos pasos necesitan de cosas para realizarlos. Y una vez que se cumple o se realiza la tarea/instruccion
+este debe llegar a un resultado. El resultado es un return. 
+-Declaraciones if: Una declaracion if, es preguntarte antes de empezar algo... La pregunta es un si?... Que dependiendo lo que te preguntes
+haces una cosa u otra cosa.
+-Valores booleanos (true, false); Los valores booleanos son objetos, cosas que te dan una respuesta de si o no, verdadero o falso.
