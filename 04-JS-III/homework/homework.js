@@ -222,7 +222,7 @@ function mayorACien(array) {
   // Tu código:
   var aux = [];
   for (let i = 0; i < array.length; i++){
-      if(array[i]>101){
+      if(array[i]>100){
         aux.push(array[i]);
       }
   }
